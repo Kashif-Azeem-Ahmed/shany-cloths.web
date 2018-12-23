@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shany cloths.web", "Shany cloths.web\Shany cloths.web.csproj", "{86990979-3084-4F56-AA09-2C5F060EB860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shanycloths.entities", "shanycloths.entities\shanycloths.entities.csproj", "{4DD66E31-165D-4552-B4B6-B2DDA3D2FEA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shanycloths.database", "shanycloths.database\shanycloths.database.csproj", "{3D70EC97-526C-462B-B7E6-996AC32D8FD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{86990979-3084-4F56-AA09-2C5F060EB860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86990979-3084-4F56-AA09-2C5F060EB860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86990979-3084-4F56-AA09-2C5F060EB860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD66E31-165D-4552-B4B6-B2DDA3D2FEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD66E31-165D-4552-B4B6-B2DDA3D2FEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD66E31-165D-4552-B4B6-B2DDA3D2FEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD66E31-165D-4552-B4B6-B2DDA3D2FEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D70EC97-526C-462B-B7E6-996AC32D8FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D70EC97-526C-462B-B7E6-996AC32D8FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D70EC97-526C-462B-B7E6-996AC32D8FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D70EC97-526C-462B-B7E6-996AC32D8FD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
